@@ -1,0 +1,6 @@
+ip = 127.0.0.1 port = 55303 Score =20
+ip = 127.0.0.1 port = 55307 Score =40
+ip = 127.0.0.1 port = 55324 Score =0
+ip = 127.0.0.1 port = 55412 Score =19
+ip = 127.0.0.1 port = 55427 Score =18
+ip = 127.0.0.1 port = 57067 Score =34

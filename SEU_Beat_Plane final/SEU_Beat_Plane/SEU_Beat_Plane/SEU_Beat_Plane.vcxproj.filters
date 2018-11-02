@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CBase_Sprite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyBullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CExplosion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameControler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPhoto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CUserBullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CUserPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SEU_Beat_Plane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CGift.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyTrackerPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTrackerBullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameStart.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPicture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBigBoss.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyBomberPlane.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemyBomberPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CUserTrackerBullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CBase_Spriet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyBullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CExplosion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameControler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPhoto.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CUserBullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CUserPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SEU_Beat_Plane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGift.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemyTrackerPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTrackerBullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameStart.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPicture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBigBoss.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CUserTrackerBullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CConnect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="small.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="SEU_Beat_Plane.ico">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{f10bb117-dd4e-4c7d-a518-de2fa82e0d8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{73af3dd5-3b1c-414e-92d3-db77b3ccc60c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{efb621a4-96ec-4ab1-bbc6-a9e414992efc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SEU_Beat_Plane.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
